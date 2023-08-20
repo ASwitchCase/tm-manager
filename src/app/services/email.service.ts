@@ -3,6 +3,7 @@ import { Observable } from 'rxjs';
 import { Territory } from 'src/models/Territory';
 import {HttpClient,HttpHeaders} from  '@angular/common/http'
 import { Publisher } from 'src/models/Publisher';
+import { creds } from 'testCreds';
 
 const httpOptions ={
   headers: new HttpHeaders({
@@ -11,10 +12,7 @@ const httpOptions ={
 }
 
 //Test Creds
-const user = {
-  "username": "znweke",
-  "password": "isz30Uq3703h"
-}
+const user = creds
 
 @Injectable({
   providedIn: 'root'
