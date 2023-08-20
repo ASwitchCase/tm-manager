@@ -1,0 +1,16 @@
+:host{
+    display: flex;
+    flex: 1 0 100px;
+    height: 100px;
+}
+
+.test{
+    color: rgb(91, 229, 208);
+}
+
+.box{
+    width: 100%;
+    height: 100px;
+    border-radius: 5px;
+    margin: 10px;
+}

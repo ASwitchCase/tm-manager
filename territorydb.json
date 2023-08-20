@@ -1,0 +1,1134 @@
+{
+    "t_list": [
+        {
+            "tid": "1A",
+            "publisher": {
+                "name": "Jacques Adams",
+                "email": "adamsjacques546@gmail.com",
+                "phone": "5512229882"
+            },
+            "dateAssigned": "8/10/2023",
+            "driveLink": "https://bit.ly/3LXSJ03"
+        },
+        {
+            "tid": "1B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3pnmAW3"
+        },
+        {
+            "tid": "1C",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3LOz8zh"
+        },
+        {
+            "tid": "1D",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3pnmIF1"
+        },
+        {
+            "tid": "2A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3uYGzOl"
+        },
+        {
+            "tid": "2B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3I5P5ic"
+        },
+        {
+            "tid": "2C",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3s2lWif"
+        },
+        {
+            "tid": "3A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3oXL4F6"
+        },
+        {
+            "tid": "3B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3p2Mii9"
+        },
+        {
+            "tid": "3C",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3HgMjFL"
+        },
+        {
+            "tid": "4A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3h1Ju0g"
+        },
+        {
+            "tid": "4B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3LNU49m"
+        },
+        {
+            "tid": "4C",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3s1If7G"
+        },
+        {
+            "tid": "5A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3gYwt7J"
+        },
+        {
+            "tid": "5B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3BxKUZU"
+        },
+        {
+            "tid": "5C",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/33A14Wj"
+        },
+        {
+            "tid": "6A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3p065Pg"
+        },
+        {
+            "tid": "6B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3v2YXFy"
+        },
+        {
+            "tid": "7A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3sZTIUO"
+        },
+        {
+            "tid": "7B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3v44ZpA"
+        },
+        {
+            "tid": "7C",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3sPTTSw"
+        },
+        {
+            "tid": "8A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3LLP9px"
+        },
+        {
+            "tid": "8B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3pnoWnR"
+        },
+        {
+            "tid": "9A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3LFTYAN"
+        },
+        {
+            "tid": "9B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3JWz3I7"
+        },
+        {
+            "tid": "9X",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3JWyY7h"
+        },
+        {
+            "tid": "10A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3LEX2No"
+        },
+        {
+            "tid": "11A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3p0td00"
+        },
+        {
+            "tid": "11B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3sRyd8j"
+        },
+        {
+            "tid": "11C",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3p0txft"
+        },
+        {
+            "tid": "12C",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3LPnoMH"
+        },
+        {
+            "tid": "13A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/36t8cVx"
+        },
+        {
+            "tid": "13B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3sSX4bX"
+        },
+        {
+            "tid": "13C",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3JzMsW0"
+        },
+        {
+            "tid": "14A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3s28ydQ"
+        },
+        {
+            "tid": "14B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3gZEauE"
+        },
+        {
+            "tid": "15A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/35g5Usk"
+        },
+        {
+            "tid": "15B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/358ca5a"
+        },
+        {
+            "tid": "15C",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3h0cVQp"
+        },
+        {
+            "tid": "16A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3s28D18"
+        },
+        {
+            "tid": "16B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3h1VGhQ"
+        },
+        {
+            "tid": "17A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3H8N43f"
+        },
+        {
+            "tid": "17B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3v7cj3I"
+        },
+        {
+            "tid": "18A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3p1XH1Q"
+        },
+        {
+            "tid": "18B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3s0EoYD"
+        },
+        {
+            "tid": "19A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3H5RFDv"
+        },
+        {
+            "tid": "19B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/35aoeTm"
+        },
+        {
+            "tid": "19C",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3s1J5RS"
+        },
+        {
+            "tid": "20A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3s0zwTm"
+        },
+        {
+            "tid": "20B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3H1AGlB"
+        },
+        {
+            "tid": "21A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3s2RTHl"
+        },
+        {
+            "tid": "21B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3s4PITK"
+        },
+        {
+            "tid": "21C",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3BzIxG4"
+        },
+        {
+            "tid": "22A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3BBe1vF"
+        },
+        {
+            "tid": "22B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3I8NsAg"
+        },
+        {
+            "tid": "23A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/34Mx3Dj"
+        },
+        {
+            "tid": "23B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3LOpLzy"
+        },
+        {
+            "tid": "23C",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3JzHecW"
+        },
+        {
+            "tid": "24A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3JD6gIf"
+        },
+        {
+            "tid": "24B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3JF7vqp"
+        },
+        {
+            "tid": "24C",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3sM371O"
+        },
+        {
+            "tid": "25A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3v0RVkG"
+        },
+        {
+            "tid": "25B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3LHVZMV"
+        },
+        {
+            "tid": "26A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3viJOQX"
+        },
+        {
+            "tid": "26B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3LOpTiw"
+        },
+        {
+            "tid": "26X",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3LPoIiD"
+        },
+        {
+            "tid": "27A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3JCHtUL"
+        },
+        {
+            "tid": "27B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3v37o42"
+        },
+        {
+            "tid": "28A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3sVB5RA"
+        },
+        {
+            "tid": "28B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3LNVP6s"
+        },
+        {
+            "tid": "29A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3oX4IRq"
+        },
+        {
+            "tid": "29B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/36kExxz"
+        },
+        {
+            "tid": "30A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3sQL2jn"
+        },
+        {
+            "tid": "30B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3JD6yij"
+        },
+        {
+            "tid": "31A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3LMnnsR"
+        },
+        {
+            "tid": "31B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3p3E2yB"
+        },
+        {
+            "tid": "31C",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3sZV4im"
+        },
+        {
+            "tid": "32A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3JD6BL1"
+        },
+        {
+            "tid": "33A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3p1TwTv"
+        },
+        {
+            "tid": "33B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3LM5jiQ"
+        },
+        {
+            "tid": "33C",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3sNJmHk"
+        },
+        {
+            "tid": "33D",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3sW5384"
+        },
+        {
+            "tid": "33E",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3LXWR03"
+        },
+        {
+            "tid": "33F",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3p1Z6p8"
+        },
+        {
+            "tid": "33X",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/34RUcEg"
+        },
+        {
+            "tid": "34A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3LEYyiy"
+        },
+        {
+            "tid": "34B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3LPoXKz"
+        },
+        {
+            "tid": "34C",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3JWAOoH"
+        },
+        {
+            "tid": "34D",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/34Ucapx"
+        },
+        {
+            "tid": "34E",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3LInHce"
+        },
+        {
+            "tid": "35A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3JEmP6K"
+        },
+        {
+            "tid": "35B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/36gp5Cy"
+        },
+        {
+            "tid": "35C",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3viKe9Z"
+        },
+        {
+            "tid": "36A",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/36gpk0q"
+        },
+        {
+            "tid": "36B",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3p0NceW"
+        },
+        {
+            "tid": "36C",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3JCcsjG"
+        },
+        {
+            "tid": "37",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3oWm4Or"
+        },
+        {
+            "tid": "38",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/36vSoBv"
+        },
+        {
+            "tid": "39",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3JIvyoy"
+        },
+        {
+            "tid": "40",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3JEUsoL"
+        },
+        {
+            "tid": "41",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3v37Vmy"
+        },
+        {
+            "tid": "42",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3sPWmwg"
+        },
+        {
+            "tid": "43",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3sQLCO5"
+        },
+        {
+            "tid": "44",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/33EwaMw"
+        },
+        {
+            "tid": "45",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3BxNUWa"
+        },
+        {
+            "tid": "46",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3BxNVcG"
+        },
+        {
+            "tid": "47",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/356pib0"
+        },
+        {
+            "tid": "48",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3h1MppK"
+        },
+        {
+            "tid": "49",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3I892oG"
+        },
+        {
+            "tid": "50",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3gVTwAe"
+        },
+        {
+            "tid": "51",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3I89dQS"
+        },
+        {
+            "tid": "52",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3H57daH"
+        },
+        {
+            "tid": "53",
+            "publisher": {
+                "name": "No Publisher Assigned",
+                "email": "none",
+                "phone": "none"
+            },
+            "dateAssigned": "None",
+            "driveLink": "https://bit.ly/3I3lgPh"
+        }
+    ]
+}

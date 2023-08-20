@@ -1,0 +1,71 @@
+:host{
+    height:  800px;
+    width: 100%;
+}
+
+.test{
+    color: rgb(91, 229, 208);
+}
+
+.box{
+    background-image: linear-gradient(to bottom right,rgb(161, 220, 231),rgb(61, 205, 231));
+    width: 100%;
+    height: 90%;
+    border-radius: 5px;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.6);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.list{
+    width: 100%;
+    height: 90%;
+    border-radius: 5px;
+    margin: 20px;
+    overflow-y: scroll;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+form{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    font-size: 25px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.665);
+    margin: 15px;
+    width: 70%;
+}
+
+button{
+    height: 40px;
+    background: none;
+    border: none;
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.665);
+}
+
+.icon{
+    font-size: 40px;
+    margin-left: 20px;
+    color: rgba(21, 96, 177, 0.665);
+}
+
+@media (max-width: 850px){
+    :host{
+        height: 700px;
+    }
+    .box{
+        margin: 0px;
+    }
+}

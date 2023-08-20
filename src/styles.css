@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+body{
+    margin:0;
+    font-family: 'Roboto Slab', serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Teko:wght@300&display=swap');
+
+h1{
+    color: white;
+}
+
+h2{
+    color: rgb(0, 76, 95);
+}
+
+h3{
+    color: rgb(0, 29, 96);
+}
+
+/*
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+*/

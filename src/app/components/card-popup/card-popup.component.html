@@ -1,0 +1,21 @@
+<h1 mat-dialog-title>Enter Publisher Information {{territoryDto.willNotify}}</h1>
+<div mat-dialog-content>
+    <div class="notify">
+      <p style="flex: 3">Notify Publisher</p>
+      <input style="flex: 1 0 30px" type="checkbox" [(ngModel)]="territoryDto.willNotify">
+    </div>
+    
+    <p>Name</p>
+    <input matInput [(ngModel)]="territoryDto.pubData.name">
+
+    <p>Email</p>
+    <input matInput [(ngModel)]="territoryDto.pubData.email">
+
+    <p>Phone</p>
+    <input matInput [(ngModel)]="territoryDto.pubData.phone">
+</div>
+<div class="buttons" mat-dialog-actions>
+  <button mat-button (click)="onCancel()">Cancel</button>
+  <button mat-button [mat-dialog-close]="territoryDto" 
+             cdkFocusInitial>Submit</button>
+</div>

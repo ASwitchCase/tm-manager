@@ -1,0 +1,21 @@
+<div class="box">
+    <div class="top">
+        <div class="profile">
+            <h2>{{territory.tid}}</h2>
+        </div>
+
+        <button *ngIf="!isAssignedTo" (click)="openDialog()" style="display: flex; justify-content: space-between; align-items: center;">
+            <h3 style="margin-right: 5px;">Add Publisher</h3>
+            <fa-icon class="icon" [icon]="faPlus"></fa-icon>
+        </button>
+
+        <button *ngIf="isAssignedTo" style="display: flex; justify-content: space-between; align-items: center;">
+            <h3 style="margin-right: 5px;">Complete</h3>
+            <fa-icon class="icon" [icon]="faCheckCircle"></fa-icon>
+        </button>
+        
+    </div>
+    <div class="info">
+        <h2>{{territory.publisher.name}}</h2>
+    </div>
+</div>

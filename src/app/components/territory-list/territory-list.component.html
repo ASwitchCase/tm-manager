@@ -1,0 +1,13 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="box" [ngStyle]="{'background-color':color}">
+    <form>
+        <input type="text" name="searchData" [(ngModel)]="searchData">
+        <a (click)="search(searchData)"><fa-icon class="icon" style="color:rgba(255, 255, 255, 0.665)" [icon]="faSearch"></fa-icon></a>
+        <a (click)="refresh()"><fa-icon class="icon" [icon]="faRefresh"></fa-icon></a>
+    </form>
+    
+    <div class="list">
+        <app-territory (onUpdateTerritory)="onUpdate(territory)" *ngFor="let territory of tList" [territory]="territory"></app-territory>
+    </div>
+    
+</div>

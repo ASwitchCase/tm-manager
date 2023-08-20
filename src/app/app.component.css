@@ -1,0 +1,24 @@
+
+.page-container{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 20px;
+}
+
+@media (max-width: 850px){
+    .flex-container{
+        flex-direction: column;
+    }
+    .page-container{
+        width: 100%;
+    }
+
+}
