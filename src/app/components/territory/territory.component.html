@@ -1,8 +1,10 @@
 <div class="box">
     <div class="top">
-        <div class="profile">
-            <h2>{{territory.tid}}</h2>
-        </div>
+        <a (click)="openCardView()">
+            <div class="profile">
+                <h2>{{territory.tid}}</h2>
+            </div>
+        </a>
 
         <button *ngIf="!isAssignedTo" (click)="openDialog()" style="display: flex; justify-content: space-between; align-items: center;">
             <h3 style="margin-right: 5px;">Add Publisher</h3>

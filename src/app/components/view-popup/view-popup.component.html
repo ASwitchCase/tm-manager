@@ -1,0 +1,18 @@
+<h1 mat-dialog-title>Territory {{data.tid}}</h1>
+<div mat-dialog-content>
+    <img src = "{{imgUrl}}">
+    
+    <div *ngIf="isAssigned" class="publisher-info">
+        <fa-icon class="icon" [icon]="faUser"></fa-icon>
+
+        <div class="info">
+            <h3>{{data.publisher.name}}</h3>
+            <p>Date: {{data.dateAssigned}}</p>
+        </div>
+        
+    </div>
+   
+</div>
+<div class="buttons" mat-dialog-actions>
+  <button mat-button (click)="onCancel()">Close</button>
+</div>

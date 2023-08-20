@@ -6,6 +6,7 @@ import { faPlusCircle } from '@fortawesome/free-solid-svg-icons';
 import { faCheckCircle } from '@fortawesome/free-regular-svg-icons';
 import { Publisher } from 'src/models/Publisher';
 import { EmailService } from 'src/app/services/email.service';
+import { ViewPopupComponent } from '../view-popup/view-popup.component';
 @Component({
   selector: 'app-territory',
   templateUrl: './territory.component.html',
@@ -31,6 +32,13 @@ export class TerritoryComponent {
 
   ngOnInit(): void{
     this.isAssignedTo = this.territory.publisher.name !== "No Publisher Assigned"
+  }
+  openCardView(){
+    //TODO implement view popup ref
+    this.dialogRef.open(ViewPopupComponent,{
+      width:'500px',
+      data: this.territory
+    })
   }
   openDialog(){
     this.dialogRef.open(CardPopupComponent,{
