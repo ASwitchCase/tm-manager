@@ -39,14 +39,12 @@ export class TerritoryComponent {
     }).afterClosed().subscribe(territoryDto => {
 
       //Set Territory fields
-      this.territory.publisher = territoryDto.pubData
-      this.territory.dateAssigned = territoryDto.dateAssigned
+      if(territoryDto !== undefined){
+        this.territory.publisher = territoryDto.pubData
+        this.territory.dateAssigned = territoryDto.dateAssigned
+        this.isAssignedTo = this.territory.publisher.name !== "No Publisher Assigned"
 
-      this.isAssignedTo = this.territory.publisher.name !== "No Publisher Assigned"
-
-      //If territory has assigned publisher raise update event and notify publisher
-      if(this.isAssignedTo){
-        //TODO err check for email not found, or no email provided
+        //Notify Publisher and raise update event
         if(territoryDto.willNotify) this.emailService.notifyPublisher(this.territory).subscribe(res =>{})
         this.onUpdate(this.territory)
       }
