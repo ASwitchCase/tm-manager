@@ -18,7 +18,7 @@ const user = creds
   providedIn: 'root'
 })
 export class EmailService {
-  private apiUrl = 'https://tm-api-brb9.onrender.com/sendMail'
+  private apiUrl = 'https://territory-api.azurewebsites.net/email'
   constructor(private http: HttpClient) { }
 
   notifyPublisher(territory: Territory) : Observable<Territory>{
@@ -27,6 +27,7 @@ export class EmailService {
       password:user.password,
 
       recever: territory.publisher.email,
+      subject:`Territory for ${territory.publisher.name}`,
       message: `
         Hello ${territory.publisher.name},\n 
         The Attached is a link to your assgined territory.\n

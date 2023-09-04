@@ -17,19 +17,20 @@ const user = creds
   providedIn: 'root'
 })
 export class TerritoryService {
-  private apiUrl = 'https://tm-api-brb9.onrender.com/territories'
+  private apiUrl = 'https://territory-api.azurewebsites.net/territories'
   constructor(private http: HttpClient) { }
 
   getTerritories(): Observable<Territory[]>{
-    return this.http.post<Territory[]>(this.apiUrl,user,httpOptions)
+    return this.http.get<Territory[]>(this.apiUrl,httpOptions)
   }
 
   updateTerritory(territory: Territory): Observable<Territory>{
+    const url = `${this.apiUrl}/${territory.tid}`
     const data = {
       username:user.username,
       password:user.password,
       newTerritory: territory
     }
-    return this.http.put<Territory>(this.apiUrl,data,httpOptions)
+    return this.http.put<Territory>(url,territory,httpOptions)
   }
 }

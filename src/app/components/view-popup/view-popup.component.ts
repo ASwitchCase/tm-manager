@@ -9,7 +9,7 @@ import { faUser } from '@fortawesome/free-regular-svg-icons';
   styleUrls: ['./view-popup.component.css']
 })
 export class ViewPopupComponent {
-  imgUrl = `https://tm-api-brb9.onrender.com/cards/${this.data.tid}.png`
+  imgUrl = `https://territory-api.azurewebsites.net/images/TerritoryCards/${this.data.tid}.png`
   isAssigned = this.data.publisher.name !== "No Publisher Assigned"
   faUser = faUser
   constructor(
