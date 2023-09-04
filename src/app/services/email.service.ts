@@ -3,7 +3,6 @@ import { Observable } from 'rxjs';
 import { Territory } from 'src/models/Territory';
 import {HttpClient,HttpHeaders} from  '@angular/common/http'
 import { Publisher } from 'src/models/Publisher';
-import { creds } from 'testCreds';
 
 const httpOptions ={
   headers: new HttpHeaders({
@@ -12,7 +11,7 @@ const httpOptions ={
 }
 
 //Test Creds
-const user = creds
+//const user = creds
 
 @Injectable({
   providedIn: 'root'
@@ -23,9 +22,6 @@ export class EmailService {
 
   notifyPublisher(territory: Territory) : Observable<Territory>{
     const mail = {
-      username:user.username,
-      password:user.password,
-
       recever: territory.publisher.email,
       subject:`Territory for ${territory.publisher.name}`,
       message: `
