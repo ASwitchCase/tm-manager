@@ -34,7 +34,7 @@ export class TerritoryListComponent {
   onUpdate(territory: Territory){
     //let target = this.tList.filter(t =>{return t.tid === territory.tid})[0]
     //update database
-    
+    console.log(territory)
     this.territoryService.updateTerritory(territory).subscribe(territory => {
       this.tList.forEach(t => {
         if(t.tid === territory.tid) t = territory

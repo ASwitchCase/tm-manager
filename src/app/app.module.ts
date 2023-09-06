@@ -19,6 +19,7 @@ import { TerritoryComponent } from './components/territory/territory.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { CardPopupComponent } from './components/card-popup/card-popup.component';
 import { ViewPopupComponent } from './components/view-popup/view-popup.component';
+import { CompleteComponent } from './components/complete/complete.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { ViewPopupComponent } from './components/view-popup/view-popup.component
     TopNavComponent,
     TerritoryComponent,
     CardPopupComponent,
-    ViewPopupComponent
+    ViewPopupComponent,
+    CompleteComponent
   ],
   imports: [
     BrowserModule,
